@@ -26,5 +26,5 @@ Here you’ll learn how to employ controllers for good treatment of web API requ
 * Step #8: Data Service & Infrastructure
 * Step #9 Entity Framework Configuration
 
-[Read more here... ](https://www.technologycrowds.com/2019/12/net-core-web-api-tutorial.html) 
+[Read more here... ](https://www.technologycrowds.com/2019/12/net-core-web-api-tutorial.html) </br>
 [Video also explains step by step >>> ](https://www.youtube.com/watch?v=lfZHKftuQoY&t=1053s)
